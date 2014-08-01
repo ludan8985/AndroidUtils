@@ -1,4 +1,4 @@
 AndroidUtils
 ============
 
-select all kind of util
+collect all kind of util
