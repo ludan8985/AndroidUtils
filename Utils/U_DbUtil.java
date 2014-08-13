@@ -1,5 +1,3 @@
-package cn.redonly.trainman4ios.testutil;
-
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 

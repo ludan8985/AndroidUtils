@@ -1,5 +1,3 @@
-package cn.redonly.trainman4ios.testutil;
-
 public class U_DateUtil {
 
 	/**

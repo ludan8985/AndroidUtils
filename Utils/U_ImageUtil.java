@@ -1,5 +1,3 @@
-package cn.redonly.trainman4ios.testutil;
-
 import android.graphics.Bitmap;
 import android.media.ThumbnailUtils;
 import android.util.Base64;

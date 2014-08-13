@@ -1,5 +1,3 @@
-package cn.redonly.trainman4ios.testutil;
-
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
